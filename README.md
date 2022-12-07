@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=760BB8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=760BB8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Tadeu+Silveira;+trained+in+Computer+Networks,+Linux+e+java;+I'm+from+Belém+-+PA+Brasil;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=760BB8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Tadeu+Silveira;+Majored+in+Computer+Networking,+Linux+e+java;+I'm+from+Belém+-+PA+Brasil;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tadeusilveira&show_icons=true&count_private=true&hide_border=true&title_color=760BB8&icon_color=760BB8&text_color=c9d1d9&bg_color=0d1117" alt="Tadeu Silveira github stats" /> 
